@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erwan DITSCH</h1>
 <h3 align="center">A fullstack JS developer from France</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/FWmMDJN.gif">
 
 
 - 🔭 I’m currently working on **Digisphere**
