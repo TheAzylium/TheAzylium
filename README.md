@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Digisphere**
 
-- 🌱 I’m currently learning **VueJS**
-
 - 💬 Ask me about **Angular, Typescript**
 
 - 📫 How to reach me **erwanditsch@gmail.com**
